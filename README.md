@@ -1,2 +1,2 @@
 # inverse
-Paper ..., code will released after the paper is accepted.
+Paper ..., code will be released after the paper is accepted.
