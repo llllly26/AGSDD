@@ -13,7 +13,7 @@ In this work, we propose an Alternate Geometric and Semantic Denoising Diffusion
     ```
 2.  **Install Dependencies:**
     ```bash
-    pip install -r requirements.txt
+    conda env create -f envs.yml
     ```
 3.  **Download Data and checkpoint:** The model checkpoint could be downloaded from [**TODO Updated**]. The processed data could be downloaded from [**TODO Updated**]
 
