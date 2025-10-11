@@ -15,7 +15,7 @@ In this work, we propose an Alternate Geometric and Semantic Denoising Diffusion
     ```bash
     conda env create -f envs.yml
     ```
-3.  **Download Data and checkpoint:** The model checkpoint could be downloaded from [[**HERE**](https://drive.google.com/file/d/1YO4IKAHfkBcTjjFGwDIjHmwOYcBVt0gG/view?usp=drive_link)]. The processed data could be downloaded from [**TODO Updated**]
+3.  **Download Data and checkpoint:** The model checkpoint could be downloaded from [[**HERE**](https://drive.google.com/file/d/1YO4IKAHfkBcTjjFGwDIjHmwOYcBVt0gG/view?usp=drive_link)]. The processed data could be downloaded from [**[HERE](https://drive.google.com/drive/folders/1RS1gD9EaEUF9Pp7xaDqp-AGHyMOKnBVG?usp=drive_link)**]
 
 ### Train
 ```bash
