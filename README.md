@@ -34,3 +34,12 @@ Our implementation is inspired by the following open-source projects: [PiFold](h
 ## ✨Citation
 If you find that this work is useful for your research, please kindly give a star ⭐ and consider citation:
 ```
+@inproceedings{wang2025alternate,
+  title={Alternate Geometric and Semantic Denoising Diffusion for Protein Inverse Folding},
+  author={Wang, Chenglin and Zhou, Yucheng and Wang, Zhe and Zhai, Zijie and Shen, Jianbing and Zhang, Kai},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={350--366},
+  year={2025},
+  organization={Springer}
+}
+```
